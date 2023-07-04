@@ -1,0 +1,217 @@
+header, footer {
+    padding: auto;
+    background-color: #4c3c8b;
+}
+    header:hover {
+        text-decoration-color: rgb(58, 169, 197);
+    }
+
+.menu {
+    z-index: 2;
+    width: 100%;
+    position: fixed;
+    background-color: #4c3c8b;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+.carousel-caption {
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background-color:  #000000;
+    color: #4c3c8b;
+    font-family: serif;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+h2 {
+    font-size: 1.50rem;
+    color: rgb(58, 169, 197);
+}
+h4 {
+    font-size: 1.35rem;
+    color: rgb(58, 169, 197);
+}
+
+.videos {
+    text-align: center;
+}
+
+table {
+    margin: 10px;
+    max-width: 700px;
+    padding: 40px;
+}
+    th {
+            background-color: #4c3c8b;
+            font-size: 24px;
+    }
+
+.cpu, .gpu, .ssd {
+    transition: .2s ease-in-out, background-color .7s ease-in-out, color .7s ease-in-out;
+}
+
+    .cpu:hover, .gpu:hover, .ssd:hover{
+        transform: scale(1.1);
+        background-color: #4c3c8b;
+        color: rgb(35, 161, 192);
+    }
+
+ /* .cpu-image, .gpu-image, .ssd-image { 
+    animation: load 1s infinite;   
+}
+
+@keyframes load {
+    0% {
+        transform: rotatez(0deg);
+    }
+    100% {
+        transform: rotatez(360deg);
+    }
+}  */
+
+.form-control {
+    max-width: 400px;
+    text-align: center;
+    display: inline;
+}
+
+.form-select { 
+    max-width: 400px;
+}
+
+
+legend {
+    text-align: center;
+    color: #4c3c8b;
+}
+
+.pagamento {
+    text-align: center;
+}
+
+.botoes {
+  gap: 5rem 5rem;
+  margin-top: 20px;
+}    
+
+.caixas {
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
+    gap: 2rem 9rem
+
+}
+    .caixas img {
+        width: 100%;
+        height: 100%;
+    }
+    .caixas a {
+        display: inline-flex;
+        vertical-align: middle;
+        margin-right: -2rem;
+    }
+    .enviar {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: -2rem;
+    }
+    .reset {
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 3.5rem;
+    }
+    .detalhes {
+        padding: 0.5rem;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 2rem;
+    }
+    .btn {
+        padding: 0.5rem;
+        vertical-align: middle;
+        margin-left: -.8rem;
+        display: inline-block;
+        border-radius: 3px;
+        cursor: pointer;
+        outline: none;
+    }
+    .btn:active {
+        transform: scale(0.9);
+    }
+    .btn-close, .btn-save {
+        padding: 0.5rem;
+    }
+    .btn-close {
+        margin-left: -5rem;
+        margim-right: 5rem;
+    }
+    /* .modal-btn {
+        background-color: transparent;
+        border: none; 
+        font-size: 1.5rem   
+    }
+    .modal {
+        width: 450px;
+        position: fixed;
+        top: -50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        transition: top 0.5s ease-in-out;
+        border: 1px solid #ccc;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 10px;
+        background-color: #fff;
+        z-index: 2000
+    }
+    .modal:active {
+        top: 15%;
+    }
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5rem 1rem;
+        background-color: rgba(0,0,0,.5);
+        border-bottom: 1px solid #ccc;
+    }
+    .body {
+        padding: 1rem 0;
+    }
+    #overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000000;
+    }
+    #overlay:active {
+        display: block;
+    } 
+    .boxes {
+    background-color: #000000;
+} */
+
+footer{
+    color: white;
+    background-color: #4c3c8b;
+    margin-top: 0.15rem;
+    /* padding-top: 0.15rem; */
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+    footer a{
+        text-decoration: none;
+        background-color: #4c3c8b;
+        color: white;
+    }
+

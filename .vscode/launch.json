@@ -1,0 +1,16 @@
+
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": [
+          "--remote-debugging-port=9222"
+      ],
+      "url": "C:\\Users\\Junior\\Desktop\\Descomplica\\Desenvolvimento Web_ _Instituto _Nu\\mini_projeto\\",
+      "presentation": {
+          "hidden": true
+      }
+  },
