@@ -1,7 +1,7 @@
 # <img src="media/marca/icone.png" width="30" height="30"/></a> mini_projeto
 
-<a href="[https://projeto-js-e-react.vercel.app/](https://mini-projeto-nine.vercel.app/)"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="30" height="30"/></a>
-<a href="[https://projeto-js-e-react.vercel.app/](https://mini-projeto-nine.vercel.app/)"><img src="https://i.ibb.co/n13knK3/Sem-t-tulo.png"/></a>
+<a href="https://mini-projeto-nine.vercel.app/"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="30" height="30"/></a>
+<a href="https://mini-projeto-nine.vercel.app/"><img src="https://i.ibb.co/n13knK3/Sem-t-tulo.png"/></a>
 
 ##  💻 Resumo e Observações 💻
 ## Projeto de construção simples de um site, com HTML para marcação e CSS externo. Também foi aplicado alguns elementos Bootstrap.
